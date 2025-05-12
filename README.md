@@ -16,5 +16,5 @@ This repository contains only the documentation files for the project.
 ## 🛠️ Technologies Used
 
 - **Flutter** – Mobile development framework
-- 
+  
 - **Firebase** – Backend services including Firestore and Authentication
